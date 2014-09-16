@@ -1,6 +1,6 @@
 # Seaports
 
-TODO: Write a gem description
+All sorts of useful information about every seaport packaged as pretty little seaport objects. It includes data from "UN/LOCODE"
 
 ## Installation
 
